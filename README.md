@@ -1,4 +1,6 @@
 # IL2Sharp
+License: "The Unlicense"
+
 C# Internal Implimentation of UntyEngine's IL2CPP API
 
 
