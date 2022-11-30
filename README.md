@@ -1,3 +1,5 @@
+https://discord.gg/X9gdzuJBAZ
+
 # IL2Sharp
 License: "The Unlicense"
 
